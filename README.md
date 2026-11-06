@@ -144,3 +144,22 @@ The project demonstrates how AWS IAM can be used to control access securely whil
 **Project Status:** Completed
 
 **AWS Region:** Asia Pacific (Mumbai) – `ap-south-1`
+## Project Screenshots
+
+### 1. IAM User MFA
+![IAM MFA](01-iam-user-mfa-assigned.jpg)
+
+### 2. EC2 IAM Role Verification
+![EC2 IAM Role](02-ec2-iam-role-verification.jpg)
+
+### 3. S3 Bucket Read Access
+![S3 Read Access](03-s3-bucket-listing-and-read.jpg)
+
+### 4. MFA Device Setup
+![MFA Setup](04-mfa-device-setup.jpg)
+
+### 5. S3 Write Access Denied
+![Write Access Denied](05-s3-write-access-denied.jpg)
+
+### 6. GitHub Repository
+![GitHub Repository](06-github-project-repository.jpg)
